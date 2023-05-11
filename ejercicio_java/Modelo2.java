@@ -56,7 +56,7 @@ public class Carrera {
 
   
     //Constructores 
-    public Carrera (String Medicina, int 100, int 10000) {
+    public Carrera (String Medicina, int 300, int 10000) {
     }
 
     public Carrera (String NombreCarrera, int NumeroProfesores, int NumeroAlumnos) {
