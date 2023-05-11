@@ -42,7 +42,7 @@ public class Universidad {
     }
 
     public void selecciondeuniversidad() {
-        System.out.println("La Universidad que solicitó es: " + this.Nombre);
+        System.out.println("La Universidad que solicitó usted es: " + this.Nombre);
     }
 
 //CARRERA
