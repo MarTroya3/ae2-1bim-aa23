@@ -7,7 +7,7 @@ public class Universidad {
 
   
     //Constructores 
-    public Universidad (String UCE, int 500, int 50000) {
+    public Universidad (String PUCE, int 700, int 70000) {
     }
 
     public Universidad(String Nombre, int NumeroProfesores, int NumeroAlumnos) {
